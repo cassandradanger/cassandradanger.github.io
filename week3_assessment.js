@@ -4,4 +4,4 @@ function showNumber (foo)
 }
 
 
-console.log ("the meaning of life is " + showNumber(42));
+console.log ("The Answer to the Great Question... Of Life, the Universe and Everything is " + showNumber(42));
